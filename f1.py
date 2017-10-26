@@ -1,1 +1,1 @@
-print range(100)
+print range(1000)
