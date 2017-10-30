@@ -1,1 +1,1 @@
-print "hl"
+print "h"
