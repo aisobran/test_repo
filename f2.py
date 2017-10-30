@@ -1,1 +1,1 @@
-print {str(x):x for x in range(100)}
+print {str(x):x for x in range(10)}
